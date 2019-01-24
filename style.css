@@ -1,0 +1,81 @@
+/*
+Author: Ravi Tamang
+Theme name: Mark 19
+Author URI: http://tamangravi.com.np
+Description: Mark 19 is general theme for creating a beautiful blog or websites
+License: GNU General Public License V2 or Later.
+Version: 1.0
+Tags: mark19,mark,19
+*/
+
+.paragraph{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;        
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+div+a{
+    color: blue;
+    font-size: 25px;
+}
+
+div{
+    position: relative;
+   
+}
+a{
+    text-decoration: none;
+}
+img{
+   padding: 1% 20%;
+}
+text{
+   padding-left: 30%;
+}
+.head{
+   background-color: #cccccc;
+   font-size: 20px;
+   text-align: center;
+   width: 70%;
+   margin: 2px;  
+}
+.column{
+   width: 70%;
+}
+td{
+   font-size: 16px;
+}
+#blue{
+   color: #002080;
+   font-weight: 550;
+   font-size: 16px;
+}
+input{
+        padding-right: 30px;
+        background-image: url("search.png");
+        background-size: 15px 15px;
+        background-repeat: no-repeat;
+        background-position: right;
+        height: 25px;
+        width: 290px;
+        border-width: 1px;
+        border-style: solid;
+        border-color: black; 
+        padding-left: 4px;
+        float: right;                                      
+}
+
+.menu ul li {
+    list-style: none;
+    color: white;
+    float: left;
+    
+    padding: 10px 20px;
+    background-color: green;
+}
